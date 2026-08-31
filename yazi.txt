@@ -1,0 +1,4 @@
+sudo pacman -Syu yazi
+sudo pacman -S ffmpegthumbnailer unar poppler fd ripgrep fzf zoxide
+sudo pacman -S chafa
+sudo pacman -S tt-fonts-jetbrains-mono-nerd

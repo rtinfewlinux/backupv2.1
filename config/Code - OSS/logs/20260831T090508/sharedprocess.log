@@ -1,0 +1,7 @@
+2026-08-31 09:05:18.517 [info] Getting Manifest... mathematic.vscode-pdf
+2026-08-31 09:05:20.103 [info] Installing extension: mathematic.vscode-pdf {"productVersion":{"version":"1.135.0","date":"2026-08-25T14:26:52Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/rtinfew/.vscode-oss/extensions/extensions.json","path":"/home/rtinfew/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"},"isBuiltin":false}
+2026-08-31 09:05:23.973 [info] Extension signature verification result for mathematic.vscode-pdf: Success. Executed: true. Duration: 998ms.
+2026-08-31 09:05:24.675 [info] Extracted extension to file:///home/rtinfew/.vscode-oss/extensions/mathematic.vscode-pdf-0.2.3-universal: mathematic.vscode-pdf
+2026-08-31 09:05:24.720 [info] Renamed to /home/rtinfew/.vscode-oss/extensions/mathematic.vscode-pdf-0.2.3-universal
+2026-08-31 09:05:24.742 [info] Marked extension as removed mathematic.vscode-pdf-0.1.11-universal
+2026-08-31 09:05:24.752 [info] Extension installed successfully: mathematic.vscode-pdf vscode-userdata:/home/rtinfew/.vscode-oss/extensions/extensions.json

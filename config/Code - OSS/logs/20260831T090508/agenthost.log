@@ -1,0 +1,29 @@
+2026-08-31 09:05:13.641 [info] Agent Host process started successfully
+2026-08-31 09:05:13.641 [info] AgentService initialized
+2026-08-31 09:05:13.641 [info] Registering agent provider: copilotcli
+2026-08-31 09:05:13.641 [info] [Copilot] Listing discoverable chats...
+2026-08-31 09:05:13.641 [info] [Copilot] Starting CopilotClient...
+2026-08-31 09:05:13.641 [info] [Copilot] Set CLI env: GITHUB_COPILOT_INTEGRATION_ID=code-oss
+2026-08-31 09:05:13.641 [info] [Copilot] Resolved CLI path: /usr/lib/code/node_modules.asar.unpacked/@github/copilot-linux-x64/index.js
+2026-08-31 09:05:13.641 [info] [Copilot] BYOK bridge changed; refreshing models
+2026-08-31 09:05:13.641 [info] [Copilot] BYOK bridge changed; refreshing models
+2026-08-31 09:05:13.808 [info] [WebSocketProtocol] Server listening on socket /tmp/vscode-ah-f719077e4cf8/3vWx1QxDSPoCnS0x4GcIpg.sock
+2026-08-31 09:05:13.886 [info] [CommandAutoApprover] Tree-sitter initialized (bash=available, powershell=available)
+2026-08-31 09:05:13.927 [info] [Copilot] Listing chats to migrate...
+2026-08-31 09:05:14.116 [info] [Copilot] BYOK bridge changed; refreshing models
+2026-08-31 09:05:14.362 [info] [ProtocolServer] Initialize: clientId=d3f3744c-aa79-4940-b4f2-b242606b81b8, protocolVersions=[1.0.0, 0.8.0, 0.7.0, 0.6.0, 0.5.2, 0.5.1]
+2026-08-31 09:05:14.525 [info] [AgentService] showExternalSessions changed 'none' -> 'recent'; queueing session list reconciliation
+2026-08-31 09:05:17.091 [info] [Copilot] CopilotClient started successfully
+2026-08-31 09:05:17.099 [info] [Copilot] Listed 0 SDK session(s) for discoverable chats
+2026-08-31 09:05:17.101 [info] [Copilot] Chat discovery: 0 SDK session(s) -> 0 external, 0 adoptable legacy extension-host, 0 suppressed adoptable legacy extension-host, 0 suppressed archived legacy extension-host, 0 already known to Agent Host, 0 without a working directory, 0 with unsupported or missing client name, 0 outside the import window, 0 without repository metadata, 0 failed to classify (adopt legacy extension-host chats: false)
+2026-08-31 09:05:17.106 [info] [Copilot] Listed 0 SDK session(s) for chats to migrate
+2026-08-31 09:05:17.106 [info] [Copilot] Found 0 legacy sessions
+2026-08-31 09:05:17.125 [info] [AgentService] listSessions computed 0 of 0 session(s) for mode 'last30Days' in 2591ms (0 state-manager fallback)
+2026-08-31 09:05:17.127 [info] [AgentService] listSessions computed 0 of 0 session(s) for mode 'recent' in 1398ms (0 state-manager fallback)
+2026-08-31 09:05:17.130 [info] [AgentService] External session reconciliation done in 2598ms (mode: 'recent', previous: 'none'): 0 published, 0 retracted, 0 visible
+2026-08-31 09:05:17.131 [info] [AgentService] pruned 0 stale external session row(s) older than 30 days
+2026-08-31 09:05:45.160 [info] [ProtocolServer] Client disconnected: d3f3744c-aa79-4940-b4f2-b242606b81b8, subscriptions=1
+2026-08-31 09:05:45.162 [info] [Copilot] BYOK bridge changed; refreshing models
+2026-08-31 09:05:45.163 [info] [Copilot] BYOK bridge changed; refreshing models
+2026-08-31 09:05:45.166 [info] AgentService: shutting down all providers...
+2026-08-31 09:05:45.166 [info] [Copilot] Shutting down...

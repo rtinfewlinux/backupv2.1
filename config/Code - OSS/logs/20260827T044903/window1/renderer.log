@@ -1,0 +1,12 @@
+2026-08-27 04:49:05.639 [error] Error: The editor could not be opened because the file was not found.
+    at AX.handleSetInputError (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:4071:92408)
+    at async AX.setInput (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:4071:91417)
+    at async s0e.doSetInput (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1401:34929)
+    at async s0e.doOpenEditor (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1401:32715)
+    at async s0e.openEditor (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1401:31663)
+    at async vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1514:32001
+2026-08-27 04:49:05.752 [info] Started local extension host with pid 37424.
+2026-08-27 04:49:05.866 [error] [vscode.mermaid-markdown-features]: Extension 'vscode.mermaid-markdown-features' CANNOT use 'legacyToolReferenceFullNames' without the 'chatParticipantPrivate' API proposal enabled
+2026-08-27 04:49:07.099 [info] [AccountPolicyGate] apply: state=inactive, reason=undefined, isRestricted=false
+2026-08-27 04:49:09.380 [info] [perf] Render performance baseline is 64ms
+2026-08-27 04:49:12.088 [info] [AccountPolicyGate] apply: state=inactive, reason=undefined, isRestricted=false

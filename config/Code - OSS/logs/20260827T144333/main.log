@@ -1,0 +1,8 @@
+2026-08-27 14:43:33.686 [info] StorageMainService: creating application shared storage
+2026-08-27 14:43:33.860 [info] [shared storage] Creating shared storage database at '/home/rtinfew/.vscode-oss-shared/sharedStorage/state.vscdb' (wasCreated: false)
+2026-08-27 14:43:33.863 [info] [shared storage] Initializing fallback application storage (path: /home/rtinfew/.config/Code - OSS/User/globalStorage/state.vscdb)
+2026-08-27 14:43:33.896 [info] [shared storage] Fallback application storage initialized with 68 items
+2026-08-27 14:43:33.922 [info] update#setState disabled
+2026-08-27 14:43:33.924 [info] update#ctor - updates are disabled as there is no update URL
+2026-08-27 14:43:41.287 [info] Extension host with pid 206497 exited with code: 0, signal: unknown.
+2026-08-27 14:43:44.595 [info] Extension host with pid 206446 exited with code: 0, signal: unknown.

@@ -1,0 +1,25 @@
+[stream-properties]
+Audio/Sink:node.name:auto_null={"volume":1.000000, "channelMap":["FL", "FR"], "mute":false, "channelVolumes":[1.000000, 1.000000]}
+Output/Audio:application.name:Chromium={"volume":1.000000, "target":"easyeffects_sink", "channelMap":["FL", "FR"], "channelVolumes":[1.000000, 1.000000], "mute":false}
+Output/Audio:application.name:pw-play={"channelVolumes":[1.000000], "volume":1.000000, "mute":false, "channelMap":["MONO"]}
+Audio/Sink:application.id:com.github.wwmm.easyeffects={"channelVolumes":[1.000000, 1.000000], "channelMap":["FL", "FR"], "volume":1.000000, "mute":false}
+Audio/Source/Virtual:application.id:com.github.wwmm.easyeffects={"channelVolumes":[0.833668, 0.833668], "channelMap":["FL", "FR"], "volume":1.000000, "mute":false}
+Output/Audio:application.id:mpv={"volume":1.000000, "mute":false, "channelMap":["FL", "FR"], "channelVolumes":[1.000000, 1.000000]}
+Audio/Sink:node.name:qs_virt_desk={"channelVolumes":[1.000000, 1.000000], "channelMap":["FL", "FR"], "volume":1.000000, "mute":false}
+Output/Audio:media.name:loopback-700-13\soutput={"channelVolumes":[1.000000, 1.000000], "volume":1.000000, "mute":false, "channelMap":["FL", "FR"]}
+Input/Audio:media.name:loopback-700-13\sinput={"channelVolumes":[1.000000, 1.000000], "volume":1.000000, "mute":false, "channelMap":["FL", "FR"]}
+Audio/Sink:node.name:qs_virt_mic={"channelVolumes":[1.000000, 1.000000], "channelMap":["FL", "FR"], "volume":1.000000, "mute":false}
+Output/Audio:media.name:loopback-700-14\soutput={"channelVolumes":[1.000000, 1.000000], "volume":1.000000, "mute":false, "channelMap":["FL", "FR"]}
+Input/Audio:media.name:loopback-700-14\sinput={"channelVolumes":[1.000000, 1.000000], "volume":1.000000, "mute":false, "channelMap":["FL", "FR"]}
+Input/Audio:application.name:gsr-qs_virt_desk.monitor={"channelVolumes":[1.000000, 1.000000], "channelMap":[], "volume":1.000000, "mute":false}
+Input/Audio:application.name:gsr-qs_virt_mic.monitor={"channelVolumes":[1.000000, 1.000000], "channelMap":[], "volume":1.000000, "mute":false}
+Input/Audio:application.name:Chromium\sinput={"volume":1.000000, "mute":false, "channelMap":["FL", "FR"], "channelVolumes":[1.000000, 1.000000]}
+Output/Audio:application.name:Spotify={"mute":false, "volume":1.000000, "channelMap":["UNK", "UNK"], "channelVolumes":[1.000000, 1.000000]}
+Output/Audio:application.name:vesktop={"volume":1.000000, "channelVolumes":[1.000000, 1.000000], "channelMap":["FL", "FR"], "mute":false}
+Input/Audio:application.name:vesktop={"volume":1.000000, "target":"easyeffects_source", "mute":false, "channelVolumes":[1.000000, 1.000000], "channelMap":["FL", "FR"]}
+Input/Audio:application.id:org.PulseAudio.pavucontrol={"volume":1.000000, "mute":false, "channelMap":["MONO"], "channelVolumes":[1.000000]}
+Output/Audio:media.name:loopback-673-13\soutput={"channelVolumes":[1.000000, 1.000000], "channelMap":["FL", "FR"], "volume":1.000000, "mute":false}
+Input/Audio:media.name:loopback-673-13\sinput={"channelVolumes":[1.000000, 1.000000], "channelMap":["FL", "FR"], "volume":1.000000, "mute":false}
+Output/Audio:media.name:loopback-673-14\soutput={"channelVolumes":[1.000000, 1.000000], "channelMap":["FL", "FR"], "volume":1.000000, "mute":false}
+Input/Audio:media.name:loopback-673-14\sinput={"channelVolumes":[1.000000, 1.000000], "channelMap":["FL", "FR"], "volume":1.000000, "mute":false}
+Input/Audio:media.name:cava={"volume":1.000000, "channelMap":["FL", "FR"], "channelVolumes":[1.000000, 1.000000], "mute":false}

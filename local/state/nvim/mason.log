@@ -1,0 +1,90 @@
+[INFO  Fri 28 Aug 2026 03:18:55 PM BST] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=tree-sitter-cli) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[INFO  Fri 28 Aug 2026 03:18:55 PM BST] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=stylua) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[INFO  Fri 28 Aug 2026 03:18:55 PM BST] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=shfmt) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[ERROR Fri 28 Aug 2026 03:19:01 PM BST] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:100: Installation failed for Package(name=stylua) error="Installation was aborted."
+[ERROR Fri 28 Aug 2026 03:19:01 PM BST] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:100: Installation failed for Package(name=tree-sitter-cli) error="Installation was aborted."
+[ERROR Fri 28 Aug 2026 03:19:01 PM BST] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:100: Installation failed for Package(name=shfmt) error="Installation was aborted."
+[INFO  Fri 28 Aug 2026 03:19:05 PM BST] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=stylua) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[INFO  Fri 28 Aug 2026 03:19:05 PM BST] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=shfmt) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[INFO  Fri 28 Aug 2026 03:19:05 PM BST] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=tree-sitter-cli) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[ERROR Fri 28 Aug 2026 03:19:06 PM BST] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:100: Installation failed for Package(name=stylua) error="Installation was aborted."
+[ERROR Fri 28 Aug 2026 03:19:06 PM BST] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:100: Installation failed for Package(name=shfmt) error="Installation was aborted."
+[ERROR Fri 28 Aug 2026 03:19:06 PM BST] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:100: Installation failed for Package(name=tree-sitter-cli) error="Installation was aborted."
+[INFO  Fri 28 Aug 2026 03:19:41 PM BST] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=stylua) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[INFO  Fri 28 Aug 2026 03:19:41 PM BST] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=shfmt) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[INFO  Fri 28 Aug 2026 03:19:41 PM BST] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=tree-sitter-cli) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[INFO  Fri 28 Aug 2026 03:19:42 PM BST] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:93: Installation succeeded for Package(name=shfmt)
+[INFO  Fri 28 Aug 2026 03:19:42 PM BST] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:93: Installation succeeded for Package(name=stylua)
+[INFO  Fri 28 Aug 2026 03:19:43 PM BST] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:93: Installation succeeded for Package(name=tree-sitter-cli)
+[INFO  Sat 29 Aug 2026 01:24:41 PM BST] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=clangd) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[INFO  Sat 29 Aug 2026 01:24:41 PM BST] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=lua-language-server) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[INFO  Sat 29 Aug 2026 01:24:50 PM BST] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:93: Installation succeeded for Package(name=lua-language-server)
+[INFO  Sat 29 Aug 2026 01:24:57 PM BST] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:93: Installation succeeded for Package(name=clangd)
+[INFO  Sat 29 Aug 2026 01:25:33 PM BST] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=tinymist) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[INFO  Sat 29 Aug 2026 01:25:43 PM BST] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:93: Installation succeeded for Package(name=tinymist)
+[INFO  Sat 29 Aug 2026 01:42:57 PM BST] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=clangd) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[INFO  Sat 29 Aug 2026 01:42:57 PM BST] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=lua-language-server) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[INFO  Sat 29 Aug 2026 01:43:00 PM BST] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:93: Installation succeeded for Package(name=lua-language-server)
+[INFO  Sat 29 Aug 2026 01:43:13 PM BST] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:93: Installation succeeded for Package(name=clangd)
+[INFO  Sat 29 Aug 2026 01:43:31 PM BST] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=tinymist) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[INFO  Sat 29 Aug 2026 01:43:56 PM BST] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:93: Installation succeeded for Package(name=tinymist)

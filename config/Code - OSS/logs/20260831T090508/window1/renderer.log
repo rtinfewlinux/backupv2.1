@@ -1,0 +1,37 @@
+2026-08-31 09:05:10.810 [info] [AgentHost:renderer] Acquiring MessagePort to agent host...
+2026-08-31 09:05:10.852 [warning] Creation of workbench contribution 'workbench.contrib.agentHostPrewarm' took 32ms.
+2026-08-31 09:05:11.445 [info] [AgentHost:renderer] MessagePort acquired, creating client...
+2026-08-31 09:05:11.755 [info] Started local extension host with pid 10533.
+2026-08-31 09:05:14.107 [info] [AccountPolicyGate] apply: state=inactive, reason=undefined, isRestricted=false
+2026-08-31 09:05:14.505 [info] [AgentHost:renderer] Protocol connection established; clientId=d3f3744c-aa79-4940-b4f2-b242606b81b8
+2026-08-31 09:05:15.986 [info] [AgentHost] No token resolved for resource: https://api.github.com
+2026-08-31 09:05:15.988 [info] [AgentHost] No token resolved for resource: https://api.github.com
+2026-08-31 09:05:15.989 [info] [AgentHost] No token resolved for resource: https://api.github.com
+2026-08-31 09:05:15.990 [info] [AgentHost] No token resolved for resource: https://api.github.com
+2026-08-31 09:05:15.992 [info] [AgentHost] No token resolved for resource: https://api.github.com
+2026-08-31 09:05:15.994 [info] [AgentHost] No token resolved for resource: https://api.github.com
+2026-08-31 09:05:15.994 [info] [AgentHost] No token resolved for resource: https://api.github.com
+2026-08-31 09:05:15.995 [info] [AgentHost] No token resolved for resource: https://api.github.com
+2026-08-31 09:05:15.996 [info] [AgentHost] No token resolved for resource: https://api.github.com
+2026-08-31 09:05:15.996 [info] [AgentHost] No token resolved for resource: https://api.github.com
+2026-08-31 09:05:15.997 [info] [AgentHost] No token resolved for resource: https://api.github.com
+2026-08-31 09:05:15.998 [info] [AgentHost] No token resolved for resource: https://api.github.com
+2026-08-31 09:05:15.999 [info] [AgentHost] No token resolved for resource: https://api.github.com
+2026-08-31 09:05:16.009 [info] [AgentHost] Clearing authentication for resource: https://api.github.com
+2026-08-31 09:05:16.032 [info] [AgentHost] No token resolved for resource: https://api.github.com/repos
+2026-08-31 09:05:16.036 [info] [AgentHost] No token resolved for resource: https://api.github.com/repos
+2026-08-31 09:05:16.037 [info] [AgentHost] No token resolved for resource: https://api.github.com/repos
+2026-08-31 09:05:16.038 [info] [AgentHost] No token resolved for resource: https://api.github.com/repos
+2026-08-31 09:05:16.038 [info] [AgentHost] No token resolved for resource: https://api.github.com/repos
+2026-08-31 09:05:16.038 [info] [AgentHost] No token resolved for resource: https://api.github.com/repos
+2026-08-31 09:05:16.040 [info] [AgentHost] No token resolved for resource: https://api.github.com/repos
+2026-08-31 09:05:16.040 [info] [AgentHost] No token resolved for resource: https://api.github.com/repos
+2026-08-31 09:05:16.042 [info] [AgentHost] No token resolved for resource: https://api.github.com/repos
+2026-08-31 09:05:16.044 [info] [AgentHost] No token resolved for resource: https://api.github.com/repos
+2026-08-31 09:05:16.046 [info] [AgentHost] No token resolved for resource: https://api.github.com/repos
+2026-08-31 09:05:16.046 [info] [AgentHost] No token resolved for resource: https://api.github.com/repos
+2026-08-31 09:05:16.047 [info] [AgentHost] No token resolved for resource: https://api.github.com/repos
+2026-08-31 09:05:16.048 [info] [AgentHost] Clearing authentication for resource: https://api.github.com/repos
+2026-08-31 09:05:17.317 [info] [perf] Render performance baseline is 48ms
+2026-08-31 09:05:17.508 [info] Auto updating outdated extensions. mathematic.vscode-pdf
+2026-08-31 09:05:19.105 [info] [AccountPolicyGate] apply: state=inactive, reason=undefined, isRestricted=false

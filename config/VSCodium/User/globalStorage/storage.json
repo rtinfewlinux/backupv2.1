@@ -1,0 +1,68 @@
+{
+    "telemetry.sqmId": "",
+    "telemetry.machineId": "8c6ad119b9da43aec4bab6397374e12e043f07a9bbab500c87f7d0bfc400eaf0",
+    "telemetry.devDeviceId": "63e8d390-4384-4434-8f8e-b2858f840416",
+    "backupWorkspaces": {
+        "workspaces": [],
+        "folders": [],
+        "emptyWindows": [
+            {
+                "backupFolder": "1788165535146"
+            }
+        ]
+    },
+    "windowControlHeight": 35,
+    "profileAssociations": {
+        "workspaces": {},
+        "emptyWindows": {
+            "1788163315546": "__default__profile__",
+            "1788164303771": "__default__profile__",
+            "1788165433439": "__default__profile__",
+            "1788165510432": "__default__profile__",
+            "1788165535146": "__default__profile__"
+        }
+    },
+    "theme": "vs-dark",
+    "themeBackground": "#121314",
+    "windowSplash": {
+        "zoomLevel": 0,
+        "baseTheme": "vs-dark",
+        "colorInfo": {
+            "foreground": "#bfbfbf",
+            "background": "#121314",
+            "editorBackground": "#121314",
+            "titleBarBackground": "#191a1b",
+            "titleBarBorder": "#2a2b2c",
+            "activityBarBackground": "#191a1b",
+            "activityBarBorder": "#2a2b2c",
+            "sideBarBackground": "#191a1b",
+            "sideBarBorder": "#2a2b2c",
+            "statusBarBackground": "#191a1b",
+            "statusBarBorder": "#2a2b2c",
+            "statusBarNoFolderBackground": "#191a1b"
+        },
+        "layoutInfo": {
+            "sideBarSide": "left",
+            "editorPartMinWidth": 220,
+            "titleBarHeight": 35,
+            "activityBarWidth": 48,
+            "sideBarWidth": 0,
+            "auxiliaryBarWidth": 0,
+            "statusBarHeight": 22,
+            "windowBorder": false
+        }
+    },
+    "windowsState": {
+        "lastActiveWindow": {
+            "backupPath": "/home/rtinfew/.config/VSCodium/Backups/1788165535146",
+            "uiState": {
+                "mode": 0,
+                "x": 1,
+                "y": 0,
+                "width": 762,
+                "height": 808
+            }
+        },
+        "openedWindows": []
+    }
+}

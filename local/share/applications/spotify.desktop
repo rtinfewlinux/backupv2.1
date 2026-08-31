@@ -1,0 +1,14 @@
+[Desktop Entry]
+Type=Application
+Name=Spotify
+GenericName=Music Player
+Icon=spotify-client
+TryExec=spotify
+#Exec=spotify --uri=%u
+Terminal=false
+MimeType=x-scheme-handler/spotify;
+Categories=Audio;Music;Player;AudioVideo;
+StartupWMClass=spotify
+Exec=spotify --enable-features=UseOzonePlatform --ozone-platform=wayland --enable-features=WaylandWindowDecorations %U
+#Exec=spotify --enable-features=UseOzonePlatform --ozone-platform=wayland --enable-features=WaylandWindowDecorations --force-device-scale-factor=1.25 %U
+

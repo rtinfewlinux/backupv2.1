@@ -1,0 +1,1 @@
+hyprctl dispatch movetoworkspacesilent special:minimized

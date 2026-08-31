@@ -1,0 +1,4 @@
+2026-08-31 09:18:25.243 [info] Started local extension host with pid 16914.
+2026-08-31 09:18:25.424 [error] [/home/rtinfew/.vscode-oss/extensions/mathematic.vscode-pdf-0.2.3-universal]: Extension is not compatible with Code 1.126.04524. Extension requires: ^1.134.0.
+2026-08-31 09:18:26.361 [info] [AccountPolicyGate] apply: state=inactive, reason=undefined, isRestricted=false
+2026-08-31 09:18:28.326 [info] [perf] Render performance baseline is 69ms

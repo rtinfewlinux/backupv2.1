@@ -1,0 +1,8 @@
+2026-08-25 15:40:53.815 [info] Started local extension host with pid 63826.
+2026-08-25 15:40:53.880 [error] [vscode.mermaid-markdown-features]: Extension 'vscode.mermaid-markdown-features' CANNOT use 'legacyToolReferenceFullNames' without the 'chatParticipantPrivate' API proposal enabled
+2026-08-25 15:40:58.599 [info] [AccountPolicyGate] apply: state=inactive, reason=undefined, isRestricted=false
+2026-08-25 15:41:00.882 [info] [perf] Render performance baseline is 50ms
+2026-08-25 15:41:03.601 [info] [AccountPolicyGate] apply: state=inactive, reason=undefined, isRestricted=false
+2026-08-25 15:41:04.950 [error] lock() request could not be registered.: InvalidStateError: lock() request could not be registered.
+2026-08-25 15:41:06.694 [error] lock() request could not be registered.: InvalidStateError: lock() request could not be registered.
+2026-08-25 15:42:42.953 [warning] [backup tracker] suspended, ignoring unregister event file:///home/rtinfew/Downloads/test.typ 

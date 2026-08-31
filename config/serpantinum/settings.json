@@ -1,0 +1,129 @@
+{
+  "general": {
+    "language": "en",
+    "avatarPath": "/home/rtinfew/Downloads/77113195.jpeg",
+    "muteSfx": false,
+    "weatherInterval": 15,
+    "weatherUnit": "metric",
+    "location": {
+      "latitude": 51.509865,
+      "longitude": -0.118092,
+      "city": "London",
+      "region": "England",
+      "country_name": "United Kingdom of Great Britain and Northern Ireland",
+      "country_code": "GB",
+      "timezone": "Europe/London",
+      "source": "manual",
+      "updated_at": 1788154482
+    },
+    "sfxVolume": 100,
+    "quickactions": true
+  },
+  "syspanel": {
+    "clipExpandProgress": 0,
+    "clipExpanded": false,
+    "clipState": 1
+  },
+  "bar": {
+    "position": "top",
+    "width": 100,
+    "opacity": 100,
+    "style": "modular",
+    "time": {
+      "format": "HH:mm:ss"
+    },
+    "autohide": false,
+    "autohideTimeout": 1000,
+    "modules": {
+      "left": [
+        "left",
+        "workspaces",
+        "media",
+        "vis"
+      ],
+      "center": [
+        "timedate",
+        "info",
+        "weather"
+      ],
+      "right": [
+        "tray",
+        [
+          "kb",
+          "wifi",
+          "bt",
+          "vol",
+          "bat"
+        ]
+      ]
+    },
+    "groupColors": {},
+    "workspaceCount": 8
+  },
+  "theme": {
+    "fontFamily": "Adwaita Mono",
+    "borderRadius": 10,
+    "activePreset": "Matugen",
+    "matugen": true
+  },
+  "idle": {
+    "enabled": true,
+    "actions": {
+      "dim": {
+        "id": "dim",
+        "timeout": 150,
+        "enabled": true,
+        "respectInhibitors": true,
+        "mprisInhibit": false,
+        "command": "",
+        "resumeCommand": "",
+        "isCustom": false
+      },
+      "dpms": {
+        "id": "dpms",
+        "timeout": 450,
+        "enabled": true,
+        "respectInhibitors": true,
+        "mprisInhibit": false,
+        "command": "",
+        "resumeCommand": "",
+        "isCustom": false
+      },
+      "lock": {
+        "id": "lock",
+        "timeout": 300,
+        "enabled": true,
+        "respectInhibitors": true,
+        "mprisInhibit": false,
+        "command": "",
+        "resumeCommand": "",
+        "isCustom": false
+      },
+      "suspend": {
+        "id": "suspend",
+        "timeout": 600,
+        "enabled": true,
+        "respectInhibitors": true,
+        "mprisInhibit": false,
+        "command": "",
+        "resumeCommand": "",
+        "isCustom": false
+      }
+    }
+  },
+  "notifications": {
+    "dnd": true,
+    "position": "top right",
+    "sound": true,
+    "soundFile": "/home/rtinfew/.local/share/serpantinum/src/assets/sounds/notifications/Botanica.wav"
+  },
+  "display": {
+    "monitors": {
+      "eDP-1": {
+        "enabled": false,
+        "scale": 1.25
+      }
+    }
+  },
+  "wallpaperDir": "/home/rtinfew/Pictures/Wallpapers"
+}

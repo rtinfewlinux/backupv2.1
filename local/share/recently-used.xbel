@@ -1,0 +1,1204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/rtinfew/Downloads/TlOoHgRbtK_6IqHD.mp4" added="2026-08-24T12:03:42.952653Z" modified="2026-08-25T09:40:22.604414Z" visited="2026-08-24T12:03:42.952654Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;gio open %u&apos;" modified="2026-08-24T12:03:43.202709Z" count="2"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;mpv --player-operation-mode=pseudo-gui -- %U&apos;" modified="2026-08-25T09:40:22.604402Z" count="9"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rtinfew/Downloads/XPealM2AxoCDyLJA.mp4" added="2026-08-24T12:04:01.236819Z" modified="2026-08-25T09:40:21.086483Z" visited="2026-08-24T12:04:01.236822Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;gio open %u&apos;" modified="2026-08-24T12:04:01.486496Z" count="2"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;mpv --player-operation-mode=pseudo-gui -- %U&apos;" modified="2026-08-25T09:40:21.086471Z" count="11"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rtinfew/Downloads/FMONvB6OUkPghY-Y.mp4" added="2026-08-24T12:04:12.541839Z" modified="2026-08-25T09:48:42.153227Z" visited="2026-08-24T12:04:12.541840Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;gio open %u&apos;" modified="2026-08-24T12:04:12.791755Z" count="2"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;mpv --player-operation-mode=pseudo-gui -- %U&apos;" modified="2026-08-25T09:48:42.153221Z" count="9"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rtinfew/Downloads/tr92ZhU8YbgE32RP.mp4" added="2026-08-24T12:04:29.030942Z" modified="2026-08-25T09:40:09.593035Z" visited="2026-08-24T12:04:29.030944Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;gio open %u&apos;" modified="2026-08-24T12:04:29.281065Z" count="2"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;mpv --player-operation-mode=pseudo-gui -- %U&apos;" modified="2026-08-25T09:40:09.593031Z" count="7"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rtinfew/Downloads/openvpn.ovpn" added="2026-08-25T04:10:39.596242Z" modified="2026-08-25T04:10:39.846326Z" visited="2026-08-25T04:10:39.596243Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;gio open %u&apos;" modified="2026-08-25T04:10:39.846323Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rtinfew/Downloads/openvpn1.ovpn" added="2026-08-25T05:21:01.998508Z" modified="2026-08-27T12:58:16.274193Z" visited="2026-08-25T05:21:01.998510Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;gio open %u&apos;" modified="2026-08-27T12:58:16.274191Z" count="12"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rtinfew/Downloads/%23include%20%3Cstdio%3E.cpp" added="2026-08-25T09:42:14.964358Z" modified="2026-08-25T09:42:15.214374Z" visited="2026-08-25T09:42:14.964359Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;gio open %u&apos;" modified="2026-08-25T09:42:15.214369Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rtinfew/Downloads/test.typ" added="2026-08-25T09:43:50.004805Z" modified="2026-08-29T12:22:09.108657Z" visited="2026-08-25T09:43:50.004806Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/vnd.typst"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;gio open %u&apos;" modified="2026-08-25T14:37:16.294550Z" count="4"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;kitty +open %U&apos;" modified="2026-08-29T12:22:09.108631Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rtinfew/Downloads/test.pdf" added="2026-08-25T09:44:59.810176Z" modified="2026-08-25T09:44:59.810189Z" visited="2026-08-25T09:44:59.810178Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;/usr/bin/chromium %U&apos;" modified="2026-08-25T09:44:59.810183Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rtinfew/Downloads/tr92Zhmp4" added="2026-08-25T10:19:28.084169Z" modified="2026-08-25T10:19:28.334133Z" visited="2026-08-25T10:19:28.084170Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;gio open %u&apos;" modified="2026-08-25T10:19:28.334129Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rtinfew/Downloads/TlOoHg.mp4" added="2026-08-25T10:22:31.853904Z" modified="2026-08-27T07:53:31.378380Z" visited="2026-08-25T10:22:31.853906Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;gio open %u&apos;" modified="2026-08-25T10:22:32.103438Z" count="2"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;mpv --player-operation-mode=pseudo-gui -- %U&apos;" modified="2026-08-27T07:53:31.378359Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rtinfew/Downloads/TlOoHg1.mp4" added="2026-08-25T10:24:25.059652Z" modified="2026-08-27T07:53:29.121465Z" visited="2026-08-25T10:24:25.059653Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;gio open %u&apos;" modified="2026-08-25T10:24:25.309960Z" count="2"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;mpv --player-operation-mode=pseudo-gui -- %U&apos;" modified="2026-08-27T07:53:29.121446Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rtinfew/Downloads/TlOoH.mp4" added="2026-08-25T10:24:57.272260Z" modified="2026-08-25T14:46:00.134853Z" visited="2026-08-25T10:24:57.272262Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;gio open %u&apos;" modified="2026-08-25T10:24:57.522380Z" count="2"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;mpv --player-operation-mode=pseudo-gui -- %U&apos;" modified="2026-08-25T14:46:00.134830Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rtinfew/Downloads/TlOHg.mp4" added="2026-08-25T10:25:05.391113Z" modified="2026-08-25T14:45:48.636183Z" visited="2026-08-25T10:25:05.391114Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;gio open %u&apos;" modified="2026-08-25T10:25:05.641504Z" count="2"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;mpv --player-operation-mode=pseudo-gui -- %U&apos;" modified="2026-08-25T14:45:48.636179Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rtinfew/Downloads/tr92Zh" added="2026-08-25T10:25:35.589066Z" modified="2026-08-25T14:47:24.338896Z" visited="2026-08-25T10:25:35.589067Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;mpv --player-operation-mode=pseudo-gui -- %U&apos;" modified="2026-08-25T14:47:24.338894Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rtinfew/Videos/Recordings/Recording_2026-08-25-150751.mp4" added="2026-08-25T14:08:06.935682Z" modified="2026-08-27T05:30:29.053169Z" visited="2026-08-25T14:08:06.935682Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;mpv --player-operation-mode=pseudo-gui -- %U&apos;" modified="2026-08-27T05:30:29.053165Z" count="5"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rtinfew/Pictures/Screenshots/Screenshot_2026-08-25-152609.png" added="2026-08-25T14:26:13.746675Z" modified="2026-08-25T14:26:13.746689Z" visited="2026-08-25T14:26:13.746676Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;/usr/bin/chromium %U&apos;" modified="2026-08-25T14:26:13.746681Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rtinfew/Pictures/Wallpapers/9Tk0g7.jpg" added="2026-08-26T05:07:30.686269Z" modified="2026-08-26T05:07:51.876730Z" visited="2026-08-26T05:07:30.686270Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;imv %F&apos;" modified="2026-08-26T05:07:51.876721Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rtinfew/Pictures/Wallpapers/3840x2160-minimal-monochrome-desktop-wallpapers-v0-9orn3xt37xje1.jpg" added="2026-08-26T05:07:53.639723Z" modified="2026-08-26T05:07:53.639732Z" visited="2026-08-26T05:07:53.639724Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;imv %F&apos;" modified="2026-08-26T05:07:53.639725Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rtinfew/Videos/yazi.txt" added="2026-08-26T12:50:43.681380Z" modified="2026-08-26T12:50:43.681388Z" visited="2026-08-26T12:50:43.681381Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;code-oss %F&apos;" modified="2026-08-26T12:50:43.681383Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rtinfew/Test.typ" added="2026-08-26T12:55:52.363567Z" modified="2026-08-26T12:55:52.613712Z" visited="2026-08-26T12:55:52.363568Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2026-08-26T12:55:52.363570Z" count="1"/>
+          <bookmark:application name="codium" exec="&apos;gio open %u&apos;" modified="2026-08-26T12:55:52.613708Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rtinfew/test_hide.sh" added="2026-08-26T13:25:13.423958Z" modified="2026-08-26T13:40:14.604481Z" visited="2026-08-26T13:25:13.423960Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-shellscript"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;/usr/bin/codium %F&apos;" modified="2026-08-26T13:40:14.604457Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rtinfew/test_hide1.sh" added="2026-08-26T13:40:23.078477Z" modified="2026-08-26T13:40:23.078487Z" visited="2026-08-26T13:40:23.078479Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-shellscript"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;/usr/bin/codium %F&apos;" modified="2026-08-26T13:40:23.078482Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rtinfew/test_hidetc.sh" added="2026-08-26T13:40:30.624973Z" modified="2026-08-26T13:40:30.624983Z" visited="2026-08-26T13:40:30.624975Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-shellscript"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;/usr/bin/codium %F&apos;" modified="2026-08-26T13:40:30.624977Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rtinfew/hypr_backup_20260826/hyprland.conf" added="2026-08-26T13:57:02.309515Z" modified="2026-08-27T03:29:09.339341Z" visited="2026-08-26T13:57:02.309516Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;/usr/bin/codium %F&apos;" modified="2026-08-27T03:29:09.339332Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rtinfew/hypr_backup_20260826/config/autostart.conf" added="2026-08-26T13:57:52.681350Z" modified="2026-08-26T13:57:54.177446Z" visited="2026-08-26T13:57:52.681351Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;/usr/bin/codium %F&apos;" modified="2026-08-26T13:57:54.177439Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rtinfew/hypr_backup_20260826/scripts/init.sh" added="2026-08-26T13:58:38.360545Z" modified="2026-08-26T13:58:38.360557Z" visited="2026-08-26T13:58:38.360547Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-shellscript"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;kitty +open %U&apos;" modified="2026-08-26T13:58:38.360550Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rtinfew/hypr_backup_20260826/scripts/settings_watcher.sh" added="2026-08-26T13:59:09.012299Z" modified="2026-08-27T03:31:18.222202Z" visited="2026-08-26T13:59:09.012301Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-shellscript"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;kitty +open %U&apos;" modified="2026-08-27T03:31:18.222178Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rtinfew/hypr_backup_20260826/hide" added="2026-08-26T14:00:00.341488Z" modified="2026-08-26T14:00:00.341502Z" visited="2026-08-26T14:00:00.341490Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2026-08-26T14:00:00.341495Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rtinfew/hypr_backup_20260826/default_settings.json" added="2026-08-27T03:28:12.477861Z" modified="2026-08-27T03:28:12.477871Z" visited="2026-08-27T03:28:12.477862Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/json"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;/usr/bin/codium %F&apos;" modified="2026-08-27T03:28:12.477865Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rtinfew/hypr_backup_20260826/hypridle.conf" added="2026-08-27T03:28:39.718119Z" modified="2026-08-27T03:28:39.718124Z" visited="2026-08-27T03:28:39.718120Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;/usr/bin/codium %F&apos;" modified="2026-08-27T03:28:39.718122Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rtinfew/hypr_backup_20260826/scripts/caching.sh" added="2026-08-27T03:29:51.501407Z" modified="2026-08-27T03:29:51.501416Z" visited="2026-08-27T03:29:51.501409Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-shellscript"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;kitty +open %U&apos;" modified="2026-08-27T03:29:51.501411Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rtinfew/hypr_backup_20260826/scripts/qs_manager.sh" added="2026-08-27T03:30:28.974094Z" modified="2026-08-27T03:32:37.917883Z" visited="2026-08-27T03:30:28.974096Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-shellscript"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;kitty +open %U&apos;" modified="2026-08-27T03:32:37.917880Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rtinfew/hypr_backup_20260826/scripts/quickshell/updater/UpdaterPopup.qml" added="2026-08-27T03:33:55.964685Z" modified="2026-08-27T03:33:55.964691Z" visited="2026-08-27T03:33:55.964686Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-qml"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;/usr/bin/codium %F&apos;" modified="2026-08-27T03:33:55.964688Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rtinfew/hypr_backup_20260826/hide/hide.sh" added="2026-08-27T03:41:22.669515Z" modified="2026-08-27T03:41:22.669518Z" visited="2026-08-27T03:41:22.669516Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-shellscript"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;kitty +open %U&apos;" modified="2026-08-27T03:41:22.669517Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rtinfew/hypr_backup_20260826/hide/hide1.sh" added="2026-08-27T03:42:43.980087Z" modified="2026-08-27T03:42:43.980098Z" visited="2026-08-27T03:42:43.980089Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-shellscript"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;kitty +open %U&apos;" modified="2026-08-27T03:42:43.980093Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rtinfew" added="2026-08-27T03:46:46.993099Z" modified="2026-08-28T03:22:20.478618Z" visited="2026-08-27T03:46:46.993101Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gio open %u&apos;" modified="2026-08-28T03:22:20.452112Z" count="9"/>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2026-08-28T03:22:20.478616Z" count="9"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rtinfew/hidesort.sh" added="2026-08-27T03:46:57.586726Z" modified="2026-08-31T08:12:06.917724Z" visited="2026-08-27T03:46:57.586727Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-shellscript"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;kitty +open %U&apos;" modified="2026-08-31T08:12:06.917713Z" count="26"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rtinfew/hidesort%20(Copy).sh" added="2026-08-27T04:22:17.618078Z" modified="2026-08-27T04:22:17.618169Z" visited="2026-08-27T04:22:17.618081Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-shellscript"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;kitty +open %U&apos;" modified="2026-08-27T04:22:17.618108Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rtinfew/hidesort1.sh" added="2026-08-27T04:52:24.781336Z" modified="2026-08-27T04:52:24.781348Z" visited="2026-08-27T04:52:24.781337Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-shellscript"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;kitty +open %U&apos;" modified="2026-08-27T04:52:24.781341Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rtinfew/Videos/Recordings/Recording_2026-08-27-085255.mp4" added="2026-08-27T07:53:08.920480Z" modified="2026-08-29T05:02:28.749495Z" visited="2026-08-27T07:53:08.920481Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;mpv --player-operation-mode=pseudo-gui -- %U&apos;" modified="2026-08-29T05:02:28.749493Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rtinfew/Videos/Recordings/Recording_2026-08-27-085318.mp4" added="2026-08-27T07:53:55.983852Z" modified="2026-08-27T07:53:55.983863Z" visited="2026-08-27T07:53:55.983853Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;mpv --player-operation-mode=pseudo-gui -- %U&apos;" modified="2026-08-27T07:53:55.983857Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rtinfew/Downloads/jimeno.mp4" added="2026-08-28T01:05:00.595232Z" modified="2026-08-30T10:13:16.763468Z" visited="2026-08-28T01:05:00.595234Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;gio open %u&apos;" modified="2026-08-28T01:06:53.950337Z" count="4"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;mpv --player-operation-mode=pseudo-gui -- %U&apos;" modified="2026-08-30T10:13:16.763433Z" count="6"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rtinfew/Downloads/jimeno1.mp4" added="2026-08-28T01:07:14.306450Z" modified="2026-08-30T10:13:14.013740Z" visited="2026-08-28T01:07:14.306451Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;gio open %u&apos;" modified="2026-08-28T01:07:14.556453Z" count="2"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;mpv --player-operation-mode=pseudo-gui -- %U&apos;" modified="2026-08-30T10:13:14.013734Z" count="7"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rtinfew/Downloads/menuier.mp4" added="2026-08-28T02:13:31.904109Z" modified="2026-08-28T02:18:09.944569Z" visited="2026-08-28T02:13:31.904110Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;gio open %u&apos;" modified="2026-08-28T02:13:32.153718Z" count="2"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;mpv --player-operation-mode=pseudo-gui -- %U&apos;" modified="2026-08-28T02:18:09.944557Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rtinfew/Downloads/jimenomenuier.mp4" added="2026-08-28T02:17:05.073568Z" modified="2026-08-30T10:11:06.735889Z" visited="2026-08-28T02:17:05.073570Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;gio open %u&apos;" modified="2026-08-28T02:17:05.323515Z" count="2"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;mpv --player-operation-mode=pseudo-gui -- %U&apos;" modified="2026-08-30T10:11:06.735877Z" count="6"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rtinfew/Downloads/chseakr.mp4" added="2026-08-28T02:17:27.246971Z" modified="2026-08-30T10:13:23.059517Z" visited="2026-08-28T02:17:27.246972Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;gio open %u&apos;" modified="2026-08-28T02:17:27.496116Z" count="2"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;mpv --player-operation-mode=pseudo-gui -- %U&apos;" modified="2026-08-30T10:13:23.059507Z" count="5"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rtinfew/Downloads/chsxrk.mp4" added="2026-08-28T02:17:58.119252Z" modified="2026-08-30T10:11:16.297594Z" visited="2026-08-28T02:17:58.119254Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;gio open %u&apos;" modified="2026-08-28T02:17:58.369157Z" count="2"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;mpv --player-operation-mode=pseudo-gui -- %U&apos;" modified="2026-08-30T10:11:16.297562Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rtinfew/Downloads/jimenomatteo.mp4" added="2026-08-28T02:35:46.156068Z" modified="2026-08-30T10:13:21.035657Z" visited="2026-08-28T02:35:46.156070Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;gio open %u&apos;" modified="2026-08-28T02:35:46.406069Z" count="2"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;mpv --player-operation-mode=pseudo-gui -- %U&apos;" modified="2026-08-30T10:13:21.035629Z" count="7"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rtinfew/Downloads/jimenomeunier2.mp4" added="2026-08-28T02:39:21.030883Z" modified="2026-08-30T10:10:56.851471Z" visited="2026-08-28T02:39:21.030885Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;gio open %u&apos;" modified="2026-08-28T02:39:21.281151Z" count="2"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;mpv --player-operation-mode=pseudo-gui -- %U&apos;" modified="2026-08-30T10:10:56.851463Z" count="10"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rtinfew/Downloads/jeminomeunier1.mp4" added="2026-08-28T03:05:14.722951Z" modified="2026-08-30T10:10:42.838087Z" visited="2026-08-28T03:05:14.722953Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;gio open %u&apos;" modified="2026-08-28T03:05:14.972863Z" count="2"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;mpv --player-operation-mode=pseudo-gui -- %U&apos;" modified="2026-08-30T10:10:42.838080Z" count="8"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rtinfew/Downloads/meunier1.mp4" added="2026-08-28T03:05:29.312270Z" modified="2026-08-30T10:13:25.650834Z" visited="2026-08-28T03:05:29.312273Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;gio open %u&apos;" modified="2026-08-28T03:05:29.562214Z" count="2"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;mpv --player-operation-mode=pseudo-gui -- %U&apos;" modified="2026-08-30T10:13:25.650826Z" count="8"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rtinfew/Downloads/meunier2.mp4" added="2026-08-28T03:05:39.837759Z" modified="2026-08-28T04:32:27.119937Z" visited="2026-08-28T03:05:39.837761Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;gio open %u&apos;" modified="2026-08-28T03:05:40.087793Z" count="2"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;mpv --player-operation-mode=pseudo-gui -- %U&apos;" modified="2026-08-28T04:32:27.119920Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rtinfew/donrac.sh" added="2026-08-28T03:20:04.449935Z" modified="2026-08-28T03:20:04.449950Z" visited="2026-08-28T03:20:04.449937Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-shellscript"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;/usr/bin/codium %F&apos;" modified="2026-08-28T03:20:04.449943Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rtinfew/xoarac.sh" added="2026-08-28T03:22:47.239294Z" modified="2026-08-28T03:22:47.239303Z" visited="2026-08-28T03:22:47.239295Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-shellscript"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;/usr/bin/codium %F&apos;" modified="2026-08-28T03:22:47.239298Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rtinfew/Downloads/proton.ovpn" added="2026-08-28T03:35:22.569645Z" modified="2026-08-28T03:35:22.819665Z" visited="2026-08-28T03:35:22.569647Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;gio open %u&apos;" modified="2026-08-28T03:35:22.819660Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rtinfew/Downloads/donrac" added="2026-08-28T03:51:41.250310Z" modified="2026-08-28T03:51:41.250313Z" visited="2026-08-28T03:51:41.250311Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2026-08-28T03:51:41.250312Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rtinfew/Downloads/opvn" added="2026-08-28T03:51:58.835438Z" modified="2026-08-28T03:51:58.835452Z" visited="2026-08-28T03:51:58.835440Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2026-08-28T03:51:58.835445Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rtinfew/Downloads/yazi.txt" added="2026-08-28T03:52:09.039043Z" modified="2026-08-31T08:18:22.386840Z" visited="2026-08-28T03:52:09.039044Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;/usr/bin/codium %F&apos;" modified="2026-08-31T08:18:22.386837Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rtinfew/Downloads/ovpn/proton_login.txt" added="2026-08-28T03:53:26.534328Z" modified="2026-08-28T04:05:49.218566Z" visited="2026-08-28T03:53:26.534329Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;/usr/bin/codium %F&apos;" modified="2026-08-28T04:05:49.218554Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rtinfew/Downloads/donrac/donrac1.sh" added="2026-08-28T03:58:29.069243Z" modified="2026-08-28T03:58:29.069253Z" visited="2026-08-28T03:58:29.069244Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-shellscript"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;/usr/bin/codium %F&apos;" modified="2026-08-28T03:58:29.069247Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rtinfew/Downloads/proton1.ovpn" added="2026-08-28T04:06:40.772599Z" modified="2026-08-28T04:06:50.011382Z" visited="2026-08-28T04:06:40.772601Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;gio open %u&apos;" modified="2026-08-28T04:06:50.011380Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rtinfew/Downloads/ovpn/proton.ovpn" added="2026-08-28T04:07:00.312618Z" modified="2026-08-28T04:07:25.491380Z" visited="2026-08-28T04:07:00.312623Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-openvpn-profile"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;/usr/bin/codium %F&apos;" modified="2026-08-28T04:07:25.491376Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rtinfew/Downloads/ovpn/proton1.ovpn" added="2026-08-28T04:07:14.854317Z" modified="2026-08-29T08:36:55.920192Z" visited="2026-08-28T04:07:14.854318Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;/usr/bin/codium %F&apos;" modified="2026-08-28T04:07:14.854322Z" count="1"/>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;gio open %u&apos;" modified="2026-08-29T08:36:55.920190Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rtinfew/Downloads/ovpn/openvpn2.ovpn" added="2026-08-28T04:24:56.463087Z" modified="2026-08-28T04:24:56.713136Z" visited="2026-08-28T04:24:56.463089Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;gio open %u&apos;" modified="2026-08-28T04:24:56.713133Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rtinfew/Downloads/meunier.mp4" added="2026-08-28T04:33:05.899684Z" modified="2026-08-30T03:18:56.995855Z" visited="2026-08-28T04:33:05.899685Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;mpv --player-operation-mode=pseudo-gui -- %U&apos;" modified="2026-08-30T03:18:56.995831Z" count="8"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rtinfew/Downloads/ovpn/ovpn.ovpn" added="2026-08-28T04:43:31.696295Z" modified="2026-08-29T08:36:36.215114Z" visited="2026-08-28T04:43:31.696296Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;gio open %u&apos;" modified="2026-08-29T08:36:36.215111Z" count="4"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;/usr/bin/codium %F&apos;" modified="2026-08-28T09:48:20.588154Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rtinfew/Downloads/ovpn/ovpn1.ovpn" added="2026-08-28T04:43:41.389097Z" modified="2026-08-30T10:08:56.404665Z" visited="2026-08-28T04:43:41.389098Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;gio open %u&apos;" modified="2026-08-30T10:08:56.404663Z" count="42"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;/usr/bin/codium %F&apos;" modified="2026-08-28T09:48:28.979020Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rtinfew/Downloads/ovpn/openvpn1.ovpn" added="2026-08-28T09:47:57.834413Z" modified="2026-08-28T09:47:57.834424Z" visited="2026-08-28T09:47:57.834415Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-openvpn-profile"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;/usr/bin/codium %F&apos;" modified="2026-08-28T09:47:57.834417Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rtinfew/Downloads/backup" added="2026-08-28T10:15:37.110196Z" modified="2026-08-28T10:15:37.110200Z" visited="2026-08-28T10:15:37.110197Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2026-08-28T10:15:37.110197Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rtinfew/Downloads/backup/.local/share/applications/spotify.desktop" added="2026-08-28T10:19:14.096369Z" modified="2026-08-28T10:19:14.096379Z" visited="2026-08-28T10:19:14.096371Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-desktop"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;/usr/bin/codium %F&apos;" modified="2026-08-28T10:19:14.096374Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rtinfew/.config-backup-20260824_123848/hypr/hyprland.lua" added="2026-08-28T10:19:41.546191Z" modified="2026-08-28T13:28:04.907669Z" visited="2026-08-28T10:19:41.546192Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-lua"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;/usr/bin/codium %F&apos;" modified="2026-08-28T13:28:04.907665Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rtinfew/Downloads/backup/hypr_backup_20260827/hyprland.conf" added="2026-08-28T13:24:32.288957Z" modified="2026-08-28T13:27:44.456776Z" visited="2026-08-28T13:24:32.288959Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;/usr/bin/codium %F&apos;" modified="2026-08-28T13:27:44.456774Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rtinfew/Downloads/backup/hyprland.lua" added="2026-08-28T13:34:44.933675Z" modified="2026-08-28T13:34:44.933682Z" visited="2026-08-28T13:34:44.933676Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-lua"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;/usr/bin/codium %F&apos;" modified="2026-08-28T13:34:44.933679Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rtinfew/Downloads/hyprland.lua" added="2026-08-28T13:35:07.680614Z" modified="2026-08-28T13:35:07.680627Z" visited="2026-08-28T13:35:07.680616Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-lua"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;/usr/bin/codium %F&apos;" modified="2026-08-28T13:35:07.680621Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rtinfew/Downloads/nvim.zip" added="2026-08-28T13:59:16.415888Z" modified="2026-08-28T13:59:16.665951Z" visited="2026-08-28T13:59:16.415889Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;gio open %u&apos;" modified="2026-08-28T13:59:16.665947Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rtinfew/Downloads/backup/nvim_backup/matugen_colors.lua" added="2026-08-28T14:13:29.190669Z" modified="2026-08-28T14:14:22.125464Z" visited="2026-08-28T14:13:29.190671Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-lua"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;/usr/bin/codium %F&apos;" modified="2026-08-28T14:14:22.125460Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rtinfew/Downloads/backup/donrac/xoarac.sh" added="2026-08-29T04:48:25.523845Z" modified="2026-08-29T04:48:25.523856Z" visited="2026-08-29T04:48:25.523847Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-shellscript"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;/usr/bin/codium %F&apos;" modified="2026-08-29T04:48:25.523851Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rtinfew/Downloads/backup/donrac" added="2026-08-29T04:49:17.494909Z" modified="2026-08-29T04:49:17.531953Z" visited="2026-08-29T04:49:17.494910Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gio open %u&apos;" modified="2026-08-29T04:49:17.494914Z" count="1"/>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2026-08-29T04:49:17.531948Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rtinfew/Downloads/backup/donrac/xoarac1.sh" added="2026-08-29T04:49:27.288335Z" modified="2026-08-29T04:49:27.288341Z" visited="2026-08-29T04:49:27.288337Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-shellscript"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;/usr/bin/codium %F&apos;" modified="2026-08-29T04:49:27.288338Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rtinfew/Downloads/donrac/xoarac1.sh" added="2026-08-29T04:51:31.038379Z" modified="2026-08-29T12:51:08.045100Z" visited="2026-08-29T04:51:31.038380Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-shellscript"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;/usr/bin/codium %F&apos;" modified="2026-08-29T12:51:08.045097Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rtinfew/Videos/Recordings/Recording_2026-08-29-061304.mp4" added="2026-08-29T05:16:09.333973Z" modified="2026-08-29T05:16:09.333988Z" visited="2026-08-29T05:16:09.333975Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;mpv --player-operation-mode=pseudo-gui -- %U&apos;" modified="2026-08-29T05:16:09.333980Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rtinfew/Videos/Recordings/Recording_2026-08-29-061703.mp4" added="2026-08-29T05:19:57.990125Z" modified="2026-08-31T04:52:47.628835Z" visited="2026-08-29T05:19:57.990126Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;mpv --player-operation-mode=pseudo-gui -- %U&apos;" modified="2026-08-31T04:52:47.628831Z" count="5"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rtinfew/Downloads/backup1" added="2026-08-29T13:27:41.959037Z" modified="2026-08-29T13:27:41.959044Z" visited="2026-08-29T13:27:41.959038Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2026-08-29T13:27:41.959040Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rtinfew/Downloads/backup1/.config" added="2026-08-29T13:27:54.959832Z" modified="2026-08-29T13:27:54.959843Z" visited="2026-08-29T13:27:54.959833Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2026-08-29T13:27:54.959836Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rtinfew/Downloads/backup1/.local" added="2026-08-29T13:28:07.193940Z" modified="2026-08-29T13:28:07.193955Z" visited="2026-08-29T13:28:07.193942Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2026-08-29T13:28:07.193948Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rtinfew/Downloads/backup/config/hypr/scripts/screenshot.sh" added="2026-08-30T03:50:07.398438Z" modified="2026-08-30T03:50:07.398453Z" visited="2026-08-30T03:50:07.398442Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-shellscript"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;/usr/bin/codium %F&apos;" modified="2026-08-30T03:50:07.398446Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rtinfew/Downloads/typ" added="2026-08-30T04:41:09.732479Z" modified="2026-08-30T04:48:32.272362Z" visited="2026-08-30T04:41:09.732481Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;kitty +open %U&apos;" modified="2026-08-30T04:48:32.272356Z" count="6"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rtinfew/Downloads/typ/test.typ" added="2026-08-30T04:48:18.494677Z" modified="2026-08-30T04:48:18.494683Z" visited="2026-08-30T04:48:18.494679Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/vnd.typst"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;/usr/bin/codium %F&apos;" modified="2026-08-30T04:48:18.494680Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rtinfew/Pictures/Screenshots/Screenshot_2026-08-30-064345.png" added="2026-08-30T05:43:50.532961Z" modified="2026-08-30T05:43:50.532979Z" visited="2026-08-30T05:43:50.532964Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;/usr/bin/chromium %U&apos;" modified="2026-08-30T05:43:50.532971Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rtinfew/Videos/screen_record.mp4" added="2026-08-30T05:45:57.635859Z" modified="2026-08-30T05:45:57.635870Z" visited="2026-08-30T05:45:57.635861Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;mpv --player-operation-mode=pseudo-gui -- %U&apos;" modified="2026-08-30T05:45:57.635864Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rtinfew/Pictures/screenshot.png" added="2026-08-30T05:48:10.734818Z" modified="2026-08-30T05:48:10.734831Z" visited="2026-08-30T05:48:10.734820Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;/usr/bin/chromium %U&apos;" modified="2026-08-30T05:48:10.734825Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rtinfew/Pictures/Screenshots/Screenshot_2026-08-30-064932.png" added="2026-08-30T05:49:37.518229Z" modified="2026-08-30T05:49:37.518242Z" visited="2026-08-30T05:49:37.518231Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;/usr/bin/chromium %U&apos;" modified="2026-08-30T05:49:37.518235Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rtinfew/Downloads/77113195.jpeg" added="2026-08-30T09:36:34.249815Z" modified="2026-08-30T12:47:07.673734Z" visited="2026-08-30T09:36:34.249816Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2026-08-30T12:47:07.673732Z" count="4"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;imv %F&apos;" modified="2026-08-30T10:02:09.802801Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rtinfew/Downloads/ovpn/usa1.vpnjantit.com.zip" added="2026-08-30T09:51:01.534920Z" modified="2026-08-30T09:51:01.784721Z" visited="2026-08-30T09:51:01.534921Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;gio open %u&apos;" modified="2026-08-30T09:51:01.784717Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rtinfew/Downloads/ovpn/openovpn.ovpn" added="2026-08-30T12:31:13.309922Z" modified="2026-08-31T05:49:23.755098Z" visited="2026-08-30T12:31:13.309924Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;gio open %u&apos;" modified="2026-08-31T05:49:23.755096Z" count="20"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rtinfew/Downloads/ovpn/openovpn1.ovpn" added="2026-08-30T12:56:47.451481Z" modified="2026-08-30T12:57:04.391761Z" visited="2026-08-30T12:56:47.451483Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-openvpn-profile"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;gio open %u&apos;" modified="2026-08-30T12:56:47.701477Z" count="2"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;/usr/bin/codium %F&apos;" modified="2026-08-30T12:57:04.391759Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rtinfew/Downloads/zayne.mp4" added="2026-08-30T13:20:47.115826Z" modified="2026-08-30T13:20:47.365909Z" visited="2026-08-30T13:20:47.115828Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;gio open %u&apos;" modified="2026-08-30T13:20:47.365906Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rtinfew/.config/hypr/config/keybinds.lua" added="2026-08-31T04:21:39.966175Z" modified="2026-08-31T08:38:53.816502Z" visited="2026-08-31T04:21:39.966176Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-lua"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;/usr/bin/codium %F&apos;" modified="2026-08-31T08:38:53.816486Z" count="5"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rtinfew/Downloads/backup/backupv2" added="2026-08-31T04:37:03.380372Z" modified="2026-08-31T04:37:03.380384Z" visited="2026-08-31T04:37:03.380374Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2026-08-31T04:37:03.380377Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rtinfew/Downloads/backup/backupv2/config" added="2026-08-31T04:37:17.312027Z" modified="2026-08-31T04:37:17.312031Z" visited="2026-08-31T04:37:17.312028Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2026-08-31T04:37:17.312029Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rtinfew/Downloads/backup/backupv2/local" added="2026-08-31T04:37:22.807236Z" modified="2026-08-31T04:37:22.807244Z" visited="2026-08-31T04:37:22.807237Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2026-08-31T04:37:22.807240Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rtinfew/Downloads/backup/backupv2/config/hypr/config/settings.lua" added="2026-08-31T05:33:25.039990Z" modified="2026-08-31T05:33:25.039994Z" visited="2026-08-31T05:33:25.039991Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-lua"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;/usr/bin/codium %F&apos;" modified="2026-08-31T05:33:25.039992Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rtinfew/Downloads/backup/backupv2/config/hypr/config/variables.lua" added="2026-08-31T05:33:34.580160Z" modified="2026-08-31T05:33:34.580166Z" visited="2026-08-31T05:33:34.580161Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-lua"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;/usr/bin/codium %F&apos;" modified="2026-08-31T05:33:34.580163Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rtinfew/Downloads/backup/backupv2/config/hypr/hyprland.lua" added="2026-08-31T05:33:43.738496Z" modified="2026-08-31T05:33:43.738528Z" visited="2026-08-31T05:33:43.738497Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-lua"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;/usr/bin/codium %F&apos;" modified="2026-08-31T05:33:43.738512Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rtinfew/Downloads/backup/backupv2/config/serpantinum/settings.json" added="2026-08-31T05:33:53.513553Z" modified="2026-08-31T05:33:53.513559Z" visited="2026-08-31T05:33:53.513554Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/json"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;/usr/bin/codium %F&apos;" modified="2026-08-31T05:33:53.513556Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rtinfew/Downloads/backup/config/hypr/config/monitors.conf" added="2026-08-31T05:41:03.482959Z" modified="2026-08-31T05:41:03.482971Z" visited="2026-08-31T05:41:03.482961Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;/usr/bin/codium %F&apos;" modified="2026-08-31T05:41:03.482964Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rtinfew/Downloads/backup/config/hypr/settings.json" added="2026-08-31T05:41:31.380137Z" modified="2026-08-31T05:41:31.380148Z" visited="2026-08-31T05:41:31.380138Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/json"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;/usr/bin/codium %F&apos;" modified="2026-08-31T05:41:31.380141Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rtinfew/Downloads/backup/config/hypr/config/settings.conf" added="2026-08-31T05:42:03.276142Z" modified="2026-08-31T05:42:03.276155Z" visited="2026-08-31T05:42:03.276143Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;/usr/bin/codium %F&apos;" modified="2026-08-31T05:42:03.276148Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rtinfew/Downloads/backup/hypr_backup_20260827/config/monitors.conf" added="2026-08-31T05:42:30.066916Z" modified="2026-08-31T05:42:30.066924Z" visited="2026-08-31T05:42:30.066918Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;/usr/bin/codium %F&apos;" modified="2026-08-31T05:42:30.066921Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rtinfew/.config/hypr/config" added="2026-08-31T07:52:10.535093Z" modified="2026-08-31T07:52:10.535106Z" visited="2026-08-31T07:52:10.535095Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;kitty +open %U&apos;" modified="2026-08-31T07:52:10.535100Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rtinfew/Downloads/backup/config/hypr/config/keybindings.conf" added="2026-08-31T07:53:02.242526Z" modified="2026-08-31T07:53:02.242537Z" visited="2026-08-31T07:53:02.242528Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;/usr/bin/codium %F&apos;" modified="2026-08-31T07:53:02.242531Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rtinfew/hide.sh" added="2026-08-31T08:01:45.031187Z" modified="2026-08-31T08:01:53.494522Z" visited="2026-08-31T08:01:45.031188Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-shellscript"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;/usr/bin/codium %F&apos;" modified="2026-08-31T08:01:53.494494Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rtinfew/hide1.sh" added="2026-08-31T08:04:28.001840Z" modified="2026-08-31T08:05:06.659736Z" visited="2026-08-31T08:04:28.001843Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-shellscript"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;code-oss %F&apos;" modified="2026-08-31T08:05:06.659715Z" count="5"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rtinfew/hidetc.sh" added="2026-08-31T08:05:59.507217Z" modified="2026-08-31T08:05:59.507225Z" visited="2026-08-31T08:05:59.507219Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-shellscript"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;kitty +open %U&apos;" modified="2026-08-31T08:05:59.507221Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rtinfew/Downloads/backup/backupv2/hide" added="2026-08-31T08:17:10.462248Z" modified="2026-08-31T08:17:10.462260Z" visited="2026-08-31T08:17:10.462249Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2026-08-31T08:17:10.462254Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rtinfew/Downloads/backup/backupv2/config/hypr/config/keybinds.lua" added="2026-08-31T08:37:11.836771Z" modified="2026-08-31T08:38:28.889760Z" visited="2026-08-31T08:37:11.836773Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-lua"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;/usr/bin/codium %F&apos;" modified="2026-08-31T08:38:28.889745Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>
